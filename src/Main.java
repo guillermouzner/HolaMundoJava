@@ -26,3 +26,4 @@ class Coche {
         this.numeroDePuertas++;
     }
 }
+
